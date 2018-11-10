@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="global_blacklist_experiment_id" value="230191" />
+    <set name="global_blacklist_country_codes">
+        <string>in</string>
+    </set>
+    <boolean name="spam_data_cleared" value="false" />
+    <long name="spam_jobs_last_updated_blacklist" value="1541669917353" />
+    <set name="RATE_LIMITER_PREFS">
+        <string>+911409830024_1541756652155</string>
+        <string>+911409030068_1541770140128</string>
+        <string>+911409830025_1541690422318</string>
+    </set>
+    <long name="global_blacklist_version_v2" value="1541654684000" />
+</map>

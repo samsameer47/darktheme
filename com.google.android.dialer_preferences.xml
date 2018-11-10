@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="spam_blocking" value="false" />
+    <boolean name="checkedAutoMigrate" value="true" />
+    <boolean name="local_search" value="true" />
+    <boolean name="visual_voicemail_pre_o_migration_finished_89917441282217177021" value="true" />
+    <boolean name="migratedToNewBlocking" value="true" />
+    <boolean name="display_options_dark_mode" value="true" />
+    <long name="contacts_suggestion_dismissed_timestamp" value="1538224634285" />
+    <int name="com.android.voicemail.impl.scheduling.TaskSchedulerJobService.EXPECTED_JOB_ID" value="3" />
+    <string name="DialtactsActivity_user_sim_country_code">in</string>
+    <boolean name="visual_voicemail_pre_o_migration_finished_89918400400033913182" value="true" />
+    <boolean name="com.android.voicemail.impl.is_shutting_down" value="false" />
+    <string name="android.contacts.DISPLAY_ORDER">view_given_name_first</string>
+    <boolean name="speak_easy_voice_set_key" value="true" />
+    <boolean name="google_caller_id" value="true" />
+    <boolean name="assisted_dialing_setting_toggle_key" value="true" />
+    <string name="preference_current_country">IN</string>
+    <string name="assisted_dialing_setting_cc_key"></string>
+    <long name="preference_time_updated" value="1541781634437" />
+    <string name="android.contacts.SORT_ORDER">sort_by_given_name</string>
+    <int name="persistent_long_next_file_index_plain_text" value="1" />
+    <int name="com.android.voicemail.impl.scheduling.TaskSchedulerJobService.NEXT_JOB_ID" value="4" />
+    <int name="dialer_feature_version_acknowledged" value="0" />
+</map>
